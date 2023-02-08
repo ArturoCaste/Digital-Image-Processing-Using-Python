@@ -1,1 +1,1 @@
-# Digital-Image-Processing-Using-Pyhon
+# Digital-Image-Processing-Using-Python
